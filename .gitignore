@@ -1,0 +1,9 @@
+*/test/*.out
+tb
+*.vcd
+.DS_Store
+semaphore_expected.txt
+pedestrian_input.txt
+combined_trace.txt
+gabarito
+test/*.out
